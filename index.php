@@ -1,7 +1,7 @@
 <?php
 /**
  * Laravel - A PHP Framework For Web Artisans
- *[hotfix]
+ *[original]
  * @package  Laravel
  * @author   Taylor Otwell <taylorotwell@gmail.com>
  */
