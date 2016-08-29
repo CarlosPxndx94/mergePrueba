@@ -1,5 +1,7 @@
 <?php
 /**
+codigo cambiado en el indfgfghgfghfhgfx.....
+
  * Laravel - A PHP Framework For Web Artisans
  *[original]
  *[master2]
